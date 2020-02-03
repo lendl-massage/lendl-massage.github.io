@@ -1,0 +1,5 @@
+AuthUserFile /home/lenvduja/www.lendl-massage.at/statistik/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Passwortgeschuetzter Bereich!"
+AuthType Basic
+require valid-user
